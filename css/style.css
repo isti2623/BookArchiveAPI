@@ -1,0 +1,18 @@
+body{
+    background-image:url(../images/bg.jpg);
+}
+
+#block{
+    display: none;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(168, 0, 0);
+}
+#bloc{
+    display: none;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(168, 0, 0);
+}
